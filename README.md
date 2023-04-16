@@ -1,4 +1,24 @@
-### Hi there 👋
+# Hi 😃 My name's Alessandro 👋
+
+- 🏆 I'm a former **semi-finalist** athlete in the 400 meters at the **2000 Sydney Olympics**.
+- 👨‍💻 I now dedicate my computer skills to serving **sports**, **health**, and **education**. 
+- 🚀 I'm interested in **developing innovative products** in these fields and open to **new collaboration opportunities**. 
+- 🤝 I'm also available to contribute to **open-source projects**.
+<br/>
+
+## My Tech Stack
+### Backend 
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,jest,py,django,flask,mysql,sqlite)](https://skillicons.dev)
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,ts,netlify)](https://skillicons.dev)
+### Other
+[![My Skills](https://skillicons.dev/icons?i=git,githubactions,docker,postman,md,go,heroku,c,cpp,java)](https://skillicons.dev)
+<br/><br/><br/>
+
+## My GitHub Profile Summary
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=aleattene&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aleattene&show_icons=true&layout=compact&langs_count=8)
+
 
 <!--
 **aleattene/aleattene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +34,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=aleattene&show_icons=true)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aleattene&show_icons=true&layout=compact&langs_count=10)
