@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=aleattene&show_icons=true)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aleattene&show_icons=true&layout=compact&langs_count=6)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aleattene&show_icons=true&layout=compact&langs_count=10)
