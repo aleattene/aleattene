@@ -3,7 +3,9 @@
 - 🏆 I'm a former **semi-finalist** athlete in the 400 meters at the **2000 Sydney Olympics**.
 - 👨‍💻 I now dedicate my computer skills to serving **sports**, **health**, and **education**. 
 - 🚀 I'm interested in **developing innovative products** in these fields and open to **new collaboration opportunities**. 
-- 🤝 I'm also available to contribute to **open-source projects**.
+- 🤝 I'm also available to contribute to **open-source projects**:
+  - https://github.com/micheleriva/std/pull/11
+  - https://github.com/amqp-node/amqplib/pull/668
 <br/>
 
 ## My Tech Stack
