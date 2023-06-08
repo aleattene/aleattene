@@ -6,6 +6,16 @@
 - 🤝 I'm also available to contribute to **open-source projects**:
   - https://github.com/micheleriva/std/pull/11
   - https://github.com/amqp-node/amqplib/pull/668
+
+<br/>
+
+## My Projects
+| Project Name | Description | Status | Repository | Deploy |
+| :---: | :---: | :---: | :---: | :---: |
+| asd-management | Responsive Web App for the management of a sports association. | WIP | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50">](https://github.com/aleattene/asd-management-webapp-responsive-frontend-react) [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50">](https://github.com/aleattene/asd-management-webapp-responsive-backend-django) [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50">](https://github.com/aleattene/asd-management-webapp-responsive-backend-fastify)| [![image](https://skillicons.dev/icons?i=netlify)](https://asd-management.netlify.app/)
+
+
+
 <br/>
 
 ## My Tech Stack
