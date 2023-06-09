@@ -9,11 +9,12 @@
 
 <br/>
 
-## My Projects
+## My OS Projects
 | Type Project | Name | Description | Status | Repository | Deploy |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Side Project | asd-management | Responsive Web App for the management of a sports association | WIP | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/asd-management-webapp-responsive-frontend-react) [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/asd-management-webapp-responsive-backend-django) [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/asd-management-webapp-responsive-backend-fastify)| [<img src="https://skillicons.dev/icons?i=netlify" width="30">](https://asd-management.netlify.app/)|
-| Open Source | content | The content behind MDN Web Docs | AOSC | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/content) | [<img src="https://github.com/aleattene/aleattene/assets/74595044/04794640-12f5-4dc5-ba00-b5c4d82bdb9b" width="30">](https://developer.mozilla.org/en-US/)
+| Open Source | content | The content behind MDN Web Docs | AOSC | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/content) | [<img src="https://discourse-prod-uploads-81679984178418.s3.dualstack.us-west-2.amazonaws.com/original/2X/e/e5c522d667c53fbfb0ada5f535969c16f9748c84.png" width="30">](https://developer.mozilla.org/en-US/) |
+| Open Source | fastify | Fast and low overhead web framework, for Node.js | AOSC | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/fastify) | [<img src="https://avatars.githubusercontent.com/u/24939410?s=200&v=4" width="30">](https://www.fastify.io/)|
 
 <br/>
 
