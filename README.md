@@ -10,11 +10,10 @@
 <br/>
 
 ## My Projects
-| Project Name | Description | Status | Repository | Deploy |
-| :---: | :---: | :---: | :---: | :---: |
-| asd-management | Responsive Web App for the management of a sports association. | WIP | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50">](https://github.com/aleattene/asd-management-webapp-responsive-frontend-react) [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50">](https://github.com/aleattene/asd-management-webapp-responsive-backend-django) [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50">](https://github.com/aleattene/asd-management-webapp-responsive-backend-fastify)| [![image](https://skillicons.dev/icons?i=netlify)](https://asd-management.netlify.app/)
-
-
+| Type Project | Name | Description | Status | Repository | Deploy |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Side Project | asd-management | Responsive Web App for the management of a sports association | WIP | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/asd-management-webapp-responsive-frontend-react) [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/asd-management-webapp-responsive-backend-django) [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/asd-management-webapp-responsive-backend-fastify)| [<img src="https://skillicons.dev/icons?i=netlify" width="30">](https://asd-management.netlify.app/)|
+| Open Source | content | The content behind MDN Web Docs | AOSC | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/content) | [<img src="https://github.com/aleattene/aleattene/assets/74595044/04794640-12f5-4dc5-ba00-b5c4d82bdb9b" width="30">](https://developer.mozilla.org/en-US/)
 
 <br/>
 
