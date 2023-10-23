@@ -38,15 +38,16 @@
 | content | The content behind MDN Web Docs. | [<img src="https://banner2.cleanpng.com/20180820/ly/kisspng-checklist-tax-preparation-in-the-united-states-cus-joy-wrenn-creative-living-life-creatively-5b7b8cf484dcb6.2461476015348236685442.jpg" width="50">](#) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/content) | [<img src="https://discourse-prod-uploads-81679984178418.s3.dualstack.us-west-2.amazonaws.com/original/2X/e/e5c522d667c53fbfb0ada5f535969c16f9748c84.png" width="30">](https://developer.mozilla.org/en-US/) |
 | fastify | Fast and low overhead web framework, for Node.js. | [<img src="https://banner2.cleanpng.com/20180820/ly/kisspng-checklist-tax-preparation-in-the-united-states-cus-joy-wrenn-creative-living-life-creatively-5b7b8cf484dcb6.2461476015348236685442.jpg" width="50">](#) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/fastify) | [<img src="https://avatars.githubusercontent.com/u/24939410?s=200&v=4" width="30">](https://www.fastify.io/)|
 | django | The Web framework for perfectionists with deadlines. | [<img src="https://banner2.cleanpng.com/20180820/ly/kisspng-checklist-tax-preparation-in-the-united-states-cus-joy-wrenn-creative-living-life-creatively-5b7b8cf484dcb6.2461476015348236685442.jpg" width="50">](#) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/django) | [<img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" width="30">](https://www.djangoproject.com/)|
-| flask | The Python micro framework for building web applications. | [<img src="https://banner2.cleanpng.com/20180820/ly/kisspng-checklist-tax-preparation-in-the-united-states-cus-joy-wrenn-creative-living-life-creatively-5b7b8cf484dcb6.2461476015348236685442.jpg" width="50">](#) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/flask) | [<img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/flask_icon_132389.png" width="30">](https://flask.palletsprojects.com/en/2.3.x/)|
+
+<br/>
 
 ## 💻 Tech Stack
 
 | Stack | Technologies |
 | :---: | :---: |
-| **Backend** | [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,jest,py,django,flask,mysql,sqlite)](https://skillicons.dev) |
-| **Frontend**| [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,ts,netlify)](https://skillicons.dev) |
-| **Other Tools** | [![My Skills](https://skillicons.dev/icons?i=git,githubactions,docker,postman,md,go,heroku,c,cpp,java)](https://skillicons.dev) |
+| **Backend** | [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,jest,py,django,mysql,sqlite)](https://skillicons.dev) |
+| **Frontend**| [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,ts)](https://skillicons.dev) |
+| **Other Tools** | [![My Skills](https://skillicons.dev/icons?i=git,githubactions,md,postman,netlify,vercel,go,c,cpp,java)](https://skillicons.dev) |
 
 <br/>
 
