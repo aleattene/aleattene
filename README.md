@@ -34,7 +34,7 @@
 
 <br />
 
-## 👨‍💻 Educational Projects
+## 📚 Educational Projects
 
 | Name | Description | Status | Repository | Deployment |
 | :---: | :---: | :---: | :---: | :---: |
@@ -48,7 +48,7 @@
 
 <br/>
 
-## 🤝 Open Source Projects - Future Contributions
+## 📆 Open Source Projects - Future Contributions
 | Name | Description | Status | Repository | Deployment |
 | :---: | :---: | :---: | :---: | :---: |
 | node | Node.js JavaScript runtime. | [<img src="https://banner2.cleanpng.com/20180820/ly/kisspng-checklist-tax-preparation-in-the-united-states-cus-joy-wrenn-creative-living-life-creatively-5b7b8cf484dcb6.2461476015348236685442.jpg" width="50">](#) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/node) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="30">](https://www.nodejs.org/)|
