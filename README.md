@@ -1,8 +1,10 @@
 # Hi 😃 My name's Alessandro 👋
 
 - 🏆 I'm a former **semi-finalist** athlete in the 400 meters at the **2000 Sydney Olympics**.
-- 👨‍💻 I now dedicate my computer skills to serving **sports**, **health**, and **education**. 
-- 🚀 I'm interested in **developing innovative products** in these fields and open to **new collaboration opportunities**. 
+- 👨‍💻 I now dedicate my computer skills to serving **sports**, **health**, and **education**.
+- 📊 I'm an aspiring Data Scientist focusing on sports analytics.
+- 🚀 I'm interested in **developing innovative products** in these fields and open to **new collaboration opportunities**.
+
 - 🤝 I'm also available to contribute to **open-source projects**:
   - https://github.com/oramasearch/orama/pull/553
   - https://github.com/micheleriva/std/pull/11
