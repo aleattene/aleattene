@@ -45,13 +45,17 @@
 
 | Name | Description | Status | Repository | Deployment | Teck Stack |
 | :---: | :---: | :---: | :---: | :---: | :---:
-| advent-of-code| Python Solutions to challenges of Advent of Code events. | [<img src="https://banner2.cleanpng.com/20180330/jbw/avieomyiz.webp" width="40">](#)| [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/advent-of-code)| [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS076zgtWLC230qDOmDYSoGdVLAkju7_C5ttA&usqp=CAU" width="30">](https://adventofcode.com/)| Python
+| python-challenges | A collection of my Python coding challenges and practice exercises, focused on problem-solving, data structures, and algorithms.| [<img src="https://banner2.cleanpng.com/20180330/jbw/avieomyiz.webp" width="40">](#)| [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/python_challenges)| [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS076zgtWLC230qDOmDYSoGdVLAkju7_C5ttA&usqp=CAU" width="30">](https://adventofcode.com/) [<img src="https://docs.codewars.com/logo.svg" width="30">](https://www.codewars.com/)| Python
 | js-challenges | JS Solutions to Challenges from Codewars and Edabit.| [<img src="https://banner2.cleanpng.com/20180330/jbw/avieomyiz.webp" width="40">](#)| [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/js-challenges)| [<img src="https://docs.codewars.com/logo.svg" width="30">](https://www.codewars.com/)| NodeJS
 | real-world-app-team | Proof of Concept for a Web App capable of uploading files larger than 2GB to a database and running queries on them. | [<img src="https://banner2.cleanpng.com/20180330/jbw/avieomyiz.webp" width="40">](#)| [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/team2-real-world-app)| [<img src="https://avatars.githubusercontent.com/u/583231?v=4" width="32">](https://github.com/tomorrowdevs-projects/team2-real-world-app)| Go - React
 | browser-game-team | Proof of Concept for a Strategy Game based on space battles to conquer new planets. | [<img src="https://banner2.cleanpng.com/20180330/jbw/avieomyiz.webp" width="40">](#)| [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/browser-game-team2/browser-game-fe) [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/browser-game-team2/browser-game-be)| [<img src="https://avatars.githubusercontent.com/u/583231?v=4" width="32">](https://github.com/browser-game-team2)| Django - JS
+<!--
+| advent-of-code| Python Solutions to challenges of Advent of Code events. | [<img src="https://banner2.cleanpng.com/20180330/jbw/avieomyiz.webp" width="40">](#)| [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/advent-of-code)| [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS076zgtWLC230qDOmDYSoGdVLAkju7_C5ttA&usqp=CAU" width="30">](https://adventofcode.com/)| Python
+-->
+<!--
 | python-challenges | Python Solutions to Challenges from Codewars and Edabit.| [<img src="https://banner2.cleanpng.com/20180330/jbw/avieomyiz.webp" width="40">](#)| [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/python_challenges)| [<img src="https://docs.codewars.com/logo.svg" width="30">](https://www.codewars.com/)| Python
 | python-workbook | Solutions to the exercises in the Python Workbook by Ben Stephenson. | [<img src="https://banner2.cleanpng.com/20180330/jbw/avieomyiz.webp" width="40">](#)| [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/python-workbook)| [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8dBAH7hFbJ0psyquZdYQcKWEcD69d1ANl1LaR0KEWTfds2d6Q" width="30">](https://link.springer.com/book/10.1007/978-3-319-14240-1)| Python
-
+-->
 <br />
 
 ## 📚 Experimental Projects
@@ -64,6 +68,7 @@
 
 <br/>
 
+<!--
 ## 📆 Open Source Projects - Future Contributions
 | Name | Description | Status | Repository | Deployment |
 | :---: | :---: | :---: | :---: | :---: |
@@ -73,6 +78,7 @@
 | fastify | Fast and low overhead web framework, for Node.js. | [<img src="https://clipart-library.com/2023/kisspng-checklist-tax-preparation-in-the-united-states-cus-joy-wrenn-creative-living-life-creatively-5b7b8cf484dcb6.2461476015348236685442.jpg" width="50">](#) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/fastify) | [<img src="https://avatars.githubusercontent.com/u/24939410?s=200&v=4" width="30">](https://www.fastify.io/)|
 | mercurius | Implement GraphQL servers and gateways with Fastify. | [<img src="https://clipart-library.com/2023/kisspng-checklist-tax-preparation-in-the-united-states-cus-joy-wrenn-creative-living-life-creatively-5b7b8cf484dcb6.2461476015348236685442.jpg" width="50">](#) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/mercurius) | [<img src="https://raw.githubusercontent.com/mercurius-js/graphics/main/mercurius-horizontal.svg" width="30">](https://mercurius.dev/)|
 | content | The content behind MDN Web Docs. | [<img src="https://clipart-library.com/2023/kisspng-checklist-tax-preparation-in-the-united-states-cus-joy-wrenn-creative-living-life-creatively-5b7b8cf484dcb6.2461476015348236685442.jpg" width="50">](#) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/content) | [<img src="https://i.pinimg.com/474x/15/08/4e/15084ef960871d5b688559a96b68fced.jpg" width="30">](https://developer.mozilla.org/en-US/) |
+-->
 
 <br />
 
