@@ -1,43 +1,28 @@
 # Hi 😃 My name's Alessandro 👋
 
-- 🏆 I'm a former **semi-finalist** athlete in the 400 meters at the **2000 Sydney Olympics**.
-- 👨‍💻 I now dedicate my computer skills to serving **sports**, **health**, and **education**.
-- 📊 I'm an aspiring **data scientist** focusing on **sports** analytics.
-- 🚀 I'm interested in **developing innovative products** in these fields and open to **new collaboration opportunities**.
-- 🤝 I'm also available to contribute to **open-source projects**:
-  - https://github.com/oramasearch/orama/pull/553
-  - https://github.com/micheleriva/std/pull/11
-  - https://github.com/amqp-node/amqplib/pull/668
+- 🏃 Former **semi-finalist** in the 400 meters at the **Sydney 2000 Olympics**.
+- 📊 **Python developer** transitioning into **Data Analytics** and **Data Science**.
+- 🤝 Open to collaborations and contributions to **open-source projects**.
 
 <br/>
 
-## 🤝 Open Source Projects - Contributions
-
-| Name | Description | Status | Repository | Deployment |
-| :---: | :---: | :---: | :---: | :---: |
-| orama | Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript. | [<img src="https://e7.pngegg.com/pngimages/270/706/png-clipart-check-mark-computer-icons-green-tick-mark-angle-text-thumbnail.png" width="30">](https://github.com/askorama/orama/pull/553) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/orama) | [<img src="https://docs.orama.com/icon.png?c45fa04cd8486eae" width="30">](https://oramasearch.com/?utm_source=github)|
-| std | Michele Riva's TypeScript and JavaScript standard library. | [<img src="https://e7.pngegg.com/pngimages/270/706/png-clipart-check-mark-computer-icons-green-tick-mark-angle-text-thumbnail.png" width="30">](https://github.com/micheleriva/std/pull/11) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/std) | [<img src="https://avatars.githubusercontent.com/u/583231?v=4" width="32">](https://github.com/micheleriva/std)|
-| amqplib | AMQP 0-9-1 library and client for NodeJS. | [<img src="https://e7.pngegg.com/pngimages/270/706/png-clipart-check-mark-computer-icons-green-tick-mark-angle-text-thumbnail.png" width="30">](https://github.com/amqp-node/amqplib/pull/668) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/amqplib) | [<img src="https://avatars.githubusercontent.com/u/583231?v=4" width="32">](https://github.com/amqp-node/amqplib/pull/668/commits/661839799a6bc5c12cd65e0afde3b0ba2df04279) |
-
-<br/>
-
-## 👨‍💻 Professional Projects
+## 👨‍💻 Featured Projects
 
 | Name | Description | Status | Repository | Deployment | Teck Stack |
 | :---: | :---: | :---: | :---: | :---: | :---: |
+| sports-platform-coverage-gap-analysis | [WIP] Geographic coverage gap analysis for a sports club platform. | [<img src="https://us.123rf.com/450wm/kebox/kebox2204/kebox220400339/185718606-pulsante-rosso-rotondo-con-icona-segno-di-spunta-bianco-accettato.jpg" width="30">](#) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/sports-platform-coverage-gap-analysis) | [<img src="https://github.com/user-attachments/assets/26c6477a-e863-403c-b70d-69127db97557" width="35">](https://lookerstudio.google.com/s/tDAIpFPxjls) | Python - Pandas - MatPlotLib - Seaborn - Looker Studio
+| asd-management | [WIP] Responsive Web App for the management of a sports association. | [<img src="https://us.123rf.com/450wm/kebox/kebox2204/kebox220400339/185718606-pulsante-rosso-rotondo-con-icona-segno-di-spunta-bianco-accettato.jpg" width="30">](#) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/asd-management-webapp-responsive-backend-django) [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/asd-management-webapp-responsive-frontend-react) | [<img src="https://skillicons.dev/icons?i=netlify" width="30">](https://asd-management.netlify.app/) | Django - DRF - React - Claude Code
 | sport-management | [PCTO Project - S.Y. 2024/2025](https://github.com/users/aleattene/projects/3) | [<img src="https://e7.pngegg.com/pngimages/270/706/png-clipart-check-mark-computer-icons-green-tick-mark-angle-text-thumbnail.png" width="30">](#)| [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/pcto-deffenu-informatica-backend) [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/pcto-deffenu-informatica-frontend) | [<img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg" width="30">](https://pcto-deffenu.vercel.app/api/swagger/) [<img src="https://skillicons.dev/icons?i=netlify" width="30">](https://pcto-deffenu.netlify.app/) | Django - DRF - React
-| asd-management | [WIP] Responsive Web App for the management of a sports association. | [<img src="https://us.123rf.com/450wm/kebox/kebox2204/kebox220400339/185718606-pulsante-rosso-rotondo-con-icona-segno-di-spunta-bianco-accettato.jpg" width="30">](#) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/asd-management-webapp-responsive-backend-django) [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/asd-management-webapp-responsive-frontend-react) | [<img src="https://skillicons.dev/icons?i=netlify" width="30">](https://asd-management.netlify.app/) | Django - DRF - React
+| programming-basics | My Code Reviews about a learning path composed of projects to learn programming basics. | [<img src="https://e7.pngegg.com/pngimages/270/706/png-clipart-check-mark-computer-icons-green-tick-mark-angle-text-thumbnail.png" width="30">](#)| [<img src="https://static.vecteezy.com/system/resources/previews/016/383/479/original/code-review-icon-design-free-vector.jpg" width="28">](https://github.com/tomorrowdevs-projects/programming-basics/pulls?q=is%3Apr+is%3Aopen+reviewed-by%3A%40me)[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/programming-basics) |[<img src="https://yt3.googleusercontent.com/ytc/AGIKgqNlCL5G81kUxU7dtFMBizzIaLlci-8Nfh3pGQzHzw=s900-c-k-c0x00ffffff-no-rj" width="30">](https://www.tomorrowdevs.com/per-chi-parte-da-zero/)| NodeJS - Python
+| python-challenges | A collection of my Python coding challenges and practice exercises, focused on problem-solving, data structures, and algorithms.| [<img src="https://e7.pngegg.com/pngimages/270/706/png-clipart-check-mark-computer-icons-green-tick-mark-angle-text-thumbnail.png" width="30">](#)| [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/python-challenges)| [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS076zgtWLC230qDOmDYSoGdVLAkju7_C5ttA&usqp=CAU" width="30">](https://adventofcode.com/) [<img src="https://docs.codewars.com/logo.svg" width="30">](https://www.codewars.com/)| Python
+<!--
 | dashboard-api | TomorrowDevs Dashboard API. | [<img src="https://us.123rf.com/450wm/kebox/kebox2204/kebox220400339/185718606-pulsante-rosso-rotondo-con-icona-segno-di-spunta-bianco-accettato.jpg" width="30">](#) | [<img src="https://us.123rf.com/450wm/outchill/outchill2112/outchill211203108/179702149-confidential-text-on-red-vintage-grungy-round-rubber-stamp.jpg?ver=6" width="30">](#) | [<img src="https://us.123rf.com/450wm/outchill/outchill2112/outchill211203108/179702149-confidential-text-on-red-vintage-grungy-round-rubber-stamp.jpg?ver=6" width="30">](#)| NodeJS - Fastify
 | admin-dashboard | TomorrowDevs Admin Dashboard. | [<img src="https://us.123rf.com/450wm/kebox/kebox2204/kebox220400339/185718606-pulsante-rosso-rotondo-con-icona-segno-di-spunta-bianco-accettato.jpg" width="30">](#) | [<img src="https://us.123rf.com/450wm/outchill/outchill2112/outchill211203108/179702149-confidential-text-on-red-vintage-grungy-round-rubber-stamp.jpg?ver=6" width="30">](#) | [<img src="https://us.123rf.com/450wm/outchill/outchill2112/outchill211203108/179702149-confidential-text-on-red-vintage-grungy-round-rubber-stamp.jpg?ver=6" width="30">](#)| React
-| programming-basics | My Code Reviews about a learning path composed of projects to learn programming basics. | [<img src="https://e7.pngegg.com/pngimages/270/706/png-clipart-check-mark-computer-icons-green-tick-mark-angle-text-thumbnail.png" width="30">](#)| [<img src="https://static.vecteezy.com/system/resources/previews/016/383/479/original/code-review-icon-design-free-vector.jpg" width="28">](https://github.com/tomorrowdevs-projects/programming-basics/pulls?q=is%3Apr+is%3Aopen+reviewed-by%3A%40me)[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/programming-basics) |[<img src="https://yt3.googleusercontent.com/ytc/AGIKgqNlCL5G81kUxU7dtFMBizzIaLlci-8Nfh3pGQzHzw=s900-c-k-c0x00ffffff-no-rj" width="30">](https://www.tomorrowdevs.com/per-chi-parte-da-zero/)| NodeJS - Python
 | dashboard-fe | React Company Dashboard. | [<img src="https://e7.pngegg.com/pngimages/270/706/png-clipart-check-mark-computer-icons-green-tick-mark-angle-text-thumbnail.png" width="30">](#)| [<img src="https://us.123rf.com/450wm/outchill/outchill2112/outchill211203108/179702149-confidential-text-on-red-vintage-grungy-round-rubber-stamp.jpg?ver=6" width="30">](#) | [<img src="https://skillicons.dev/icons?i=netlify" width="30">](https://asd-dashboard.netlify.app/)| React
 | asd-doc-template-to-pdf-compiled | Conversion of Docs templates into finalized PDFs. | [<img src="https://us.123rf.com/450wm/kebox/kebox2204/kebox220400339/185718606-pulsante-rosso-rotondo-con-icona-segno-di-spunta-bianco-accettato.jpg" width="30">](#) | [<img src="https://us.123rf.com/450wm/outchill/outchill2112/outchill211203108/179702149-confidential-text-on-red-vintage-grungy-round-rubber-stamp.jpg?ver=6" width="30">](#) | [<img src="https://us.123rf.com/450wm/outchill/outchill2112/outchill211203108/179702149-confidential-text-on-red-vintage-grungy-round-rubber-stamp.jpg?ver=6" width="30">](#)| NodeJS - Express
 | motion-analysis | [WIP] MediaPipe Motion Analysis.  | [<img src="https://us.123rf.com/450wm/kebox/kebox2204/kebox220400339/185718606-pulsante-rosso-rotondo-con-icona-segno-di-spunta-bianco-accettato.jpg" width="30">](#) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/motion_analysis) | [<img src="https://us.123rf.com/450wm/outchill/outchill2112/outchill211203108/179702149-confidential-text-on-red-vintage-grungy-round-rubber-stamp.jpg?ver=6" width="30">](#)| Python - MediaPipe | 
-<!--
 | asd-attendance-register | [WIP ] Tracking and managing athlete attendance in a sports association. | [<img src="https://us.123rf.com/450wm/kebox/kebox2204/kebox220400339/185718606-pulsante-rosso-rotondo-con-icona-segno-di-spunta-bianco-accettato.jpg" width="30">](#) | [<img src="https://us.123rf.com/450wm/outchill/outchill2112/outchill211203108/179702149-confidential-text-on-red-vintage-grungy-round-rubber-stamp.jpg?ver=6" width="30">](#) | [<img src="https://us.123rf.com/450wm/outchill/outchill2112/outchill211203108/179702149-confidential-text-on-red-vintage-grungy-round-rubber-stamp.jpg?ver=6" width="30">](#)| Django - DRF - React |
-
 [<img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg" width="30">](https://asd-management-django.vercel.app/)
--->
 
 <br />
 
@@ -45,7 +30,6 @@
 
 | Name | Description | Status | Repository | Deployment | Teck Stack |
 | :---: | :---: | :---: | :---: | :---: | :---:
-| python-challenges | A collection of my Python coding challenges and practice exercises, focused on problem-solving, data structures, and algorithms.| [<img src="https://e7.pngegg.com/pngimages/270/706/png-clipart-check-mark-computer-icons-green-tick-mark-angle-text-thumbnail.png" width="30">](#)| [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/python-challenges)| [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS076zgtWLC230qDOmDYSoGdVLAkju7_C5ttA&usqp=CAU" width="30">](https://adventofcode.com/) [<img src="https://docs.codewars.com/logo.svg" width="30">](https://www.codewars.com/)| Python
 | js-challenges | JS Solutions to Challenges from Codewars and Edabit.| [<img src="https://e7.pngegg.com/pngimages/270/706/png-clipart-check-mark-computer-icons-green-tick-mark-angle-text-thumbnail.png" width="30">](#)| [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/js-challenges)| [<img src="https://docs.codewars.com/logo.svg" width="30">](https://www.codewars.com/)| NodeJS
 | real-world-app-team | Proof of Concept for a Web App capable of uploading files larger than 2GB to a database and running queries on them. | [<img src="https://e7.pngegg.com/pngimages/270/706/png-clipart-check-mark-computer-icons-green-tick-mark-angle-text-thumbnail.png" width="30">](#)| [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/team2-real-world-app)| [<img src="https://avatars.githubusercontent.com/u/583231?v=4" width="32">](https://github.com/tomorrowdevs-projects/team2-real-world-app)| Go - React
 | browser-game-team | Proof of Concept for a Strategy Game based on space battles to conquer new planets. | [<img src="https://e7.pngegg.com/pngimages/270/706/png-clipart-check-mark-computer-icons-green-tick-mark-angle-text-thumbnail.png" width="30">](#)| [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/browser-game-team2/browser-game-fe) [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/browser-game-team2/browser-game-be)| [<img src="https://avatars.githubusercontent.com/u/583231?v=4" width="32">](https://github.com/browser-game-team2)| Django - JS
@@ -55,7 +39,7 @@
 <!--
 | python-challenges | Python Solutions to Challenges from Codewars and Edabit.| [<img src="https://e7.pngegg.com/pngimages/270/706/png-clipart-check-mark-computer-icons-green-tick-mark-angle-text-thumbnail.png" width="30">](#)| [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/python_challenges)| [<img src="https://docs.codewars.com/logo.svg" width="30">](https://www.codewars.com/)| Python
 | python-workbook | Solutions to the exercises in the Python Workbook by Ben Stephenson. | [<img src="https://banner2.cleanpng.com/20180330/jbw/avieomyiz.webp" width="40">](#)| [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/python-workbook)| [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8dBAH7hFbJ0psyquZdYQcKWEcD69d1ANl1LaR0KEWTfds2d6Q" width="30">](https://link.springer.com/book/10.1007/978-3-319-14240-1)| Python
--->
+
 <br />
 
 ## 📚 Experimental Projects
@@ -65,6 +49,18 @@
 | asd-management | [WIP] Responsive Web App for the management of a sports association. | [<img src="https://us.123rf.com/450wm/kebox/kebox2204/kebox220400339/185718606-pulsante-rosso-rotondo-con-icona-segno-di-spunta-bianco-accettato.jpg" width="30">](#) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/asd-management-webapp-responsive-backend-fastify) [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/asd-management-webapp-responsive-backend-nestjs) [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/asd-management-symfony) | [<img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg" width="30">](https://asd-management-fastify.vercel.app/) [<img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg" width="30">](https://asd-management-nestjs.vercel.app/) | NodeJS - Fastify - NestJS - Symfony |
 | algorithms | ... WIP ... | [<img src="https://us.123rf.com/450wm/kebox/kebox2204/kebox220400339/185718606-pulsante-rosso-rotondo-con-icona-segno-di-spunta-bianco-accettato.jpg" width="30">](#) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/algorithms) | [<img src="https://us.123rf.com/450wm/outchill/outchill2112/outchill211203108/179702149-confidential-text-on-red-vintage-grungy-round-rubber-stamp.jpg?ver=6" width="30">](#)| TypeScript |
 | checkers-game | [WIP] Checkers Game where the user challenges the computer, starting with a statistics-based opponent and progressing to an Artificial Intelligence. | [<img src="https://us.123rf.com/450wm/kebox/kebox2204/kebox220400339/185718606-pulsante-rosso-rotondo-con-icona-segno-di-spunta-bianco-accettato.jpg" width="30">](#) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/checkers-game-be) [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/checkers-game-fe)| [<img src="https://skillicons.dev/icons?i=netlify" width="30">](https://checkersgamefe.netlify.app/)| Python |
+
+--> 
+<br/>
+
+
+## 🤝 Open Source Contributions
+
+| Name | Description | Status | Repository | Deployment |
+| :---: | :---: | :---: | :---: | :---: |
+| orama | Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript. | [<img src="https://e7.pngegg.com/pngimages/270/706/png-clipart-check-mark-computer-icons-green-tick-mark-angle-text-thumbnail.png" width="30">](https://github.com/askorama/orama/pull/553) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/orama) | [<img src="https://docs.orama.com/icon.png?c45fa04cd8486eae" width="30">](https://oramasearch.com/?utm_source=github)|
+| std | Michele Riva's TypeScript and JavaScript standard library. | [<img src="https://e7.pngegg.com/pngimages/270/706/png-clipart-check-mark-computer-icons-green-tick-mark-angle-text-thumbnail.png" width="30">](https://github.com/micheleriva/std/pull/11) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/std) | [<img src="https://avatars.githubusercontent.com/u/583231?v=4" width="32">](https://github.com/micheleriva/std)|
+| amqplib | AMQP 0-9-1 library and client for NodeJS. | [<img src="https://e7.pngegg.com/pngimages/270/706/png-clipart-check-mark-computer-icons-green-tick-mark-angle-text-thumbnail.png" width="30">](https://github.com/amqp-node/amqplib/pull/668) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/amqplib) | [<img src="https://avatars.githubusercontent.com/u/583231?v=4" width="32">](https://github.com/amqp-node/amqplib/pull/668/commits/661839799a6bc5c12cd65e0afde3b0ba2df04279) |
 
 <br/>
 
@@ -82,14 +78,19 @@
 
 <br />
 
-## 💻 Tech Stack
+## 🧰 Core Stack
 
-| Stack | Technologies |
-| :---: | :---: |
-| **Backend** | [![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express)](#) [![Fastify](https://skills.syvixor.com/api/icons?i=fastify,jest)](#)|
-| **Databases** | [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb)](#)|
-| **Frontend**| [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind)](https://skillicons.dev) |
-| **Other Tools** | [![My Skills](https://skillicons.dev/icons?i=git,githubactions,md,postman,netlify,vercel,docker)](https://skillicons.dev) |
+**📊 Data & Analytics**  
+Python - SQL - Numpy - Pandas - Matplotlib - Seaborn - Jupyter - Looker Studio
+
+**⚙️ Backend**  
+Django - FastAPI - MySQL - PostgreSQL 
+
+**🖥️ Frontend**  
+React
+
+**🛠️ Tools**  
+Git - GitHub Actions - Docker
 
 <br/>
 
@@ -97,18 +98,9 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=aleattene&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aleattene&show_icons=true&layout=compact&langs_count=8)
 
+## 📊 GitHub Profile Summary
 
-<!--
-**aleattene/aleattene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aleattene&show_icons=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleattene&layout=compact" height="165"/>
+</p>
