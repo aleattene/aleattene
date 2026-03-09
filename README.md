@@ -94,6 +94,8 @@ Git - GitHub Actions - Docker
 
 <br/>
 
+<!--
+
 ## 📊 GitHub Profile Summary
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=aleattene&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aleattene&show_icons=true&layout=compact&langs_count=8)
@@ -104,3 +106,4 @@ Git - GitHub Actions - Docker
   <img src="https://github-readme-stats.vercel.app/api?username=aleattene&show_icons=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleattene&layout=compact" height="165"/>
 </p>
+-->
