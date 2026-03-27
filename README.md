@@ -1,7 +1,7 @@
 # Hi 😃 My name's Alessandro 👋
 
 - 🏃 Former **semi-finalist** in the 400 meters at the **Sydney 2000 Olympics**.
-- 📊 **Software Engineering** transitioning into **Data Analytics** and **Data Science**.
+- 📊 **Software Engineer** transitioning into **Data Analytics** and **Data Science**.
 - 🤝 Open to collaborations and contributions to **open-source projects**.
 
 <br/>
