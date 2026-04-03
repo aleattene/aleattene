@@ -10,7 +10,7 @@
 
 <br/>
 
-| Name | Description | Status | Repository | Deploy | Teck Stack |
+| Name | Description | Status | Repository | Deploy | Tech Stack |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | sports-platform-coverage-gap-analysis | Geographic coverage gap analysis for a sports club platform. | [![In Progress](https://img.shields.io/badge/In_Progress-blue?)](#) | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/aleattene/sports-platform-coverage-gap-analysis) | [![Looker Studio](https://img.shields.io/badge/LookerStudio-0088FF?logo=looker&logoColor=white)](https://lookerstudio.google.com/s/tDAIpFPxjls) | Python - Pandas - MatPlotLib - Seaborn - Looker Studio
 | asd-management | Responsive Web App for the management of a sports association. | [![In Progress](https://img.shields.io/badge/In_Progress-blue?)](#) | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/aleattene/asd-management-backend) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/aleattene/asd-management-frontend) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/aleattene/asd-attendance-frontend)| [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](https://asd-management.netlify.app/) | Django - DRF - React - Claude Code - Codex
