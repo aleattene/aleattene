@@ -116,7 +116,7 @@ Python · SQL · NumPy · Pandas · Matplotlib · Seaborn · DuckDB · SciKit-le
 Django · DRF · FastAPI · PostgreSQL · MySQL · Node.js · MongoDB
  
 **🖥️ Frontend**  
-React · TypeScript
+HTML · CSS · React
 
 **🛠️ Tools & Method**  
 Git · GitHub Actions · Docker · Jest · PyTest
