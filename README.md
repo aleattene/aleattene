@@ -13,6 +13,7 @@
 | Project | The question it answers | Key numbers | Tech Stack |
 | :---: | :---: | :---:| :---: |
 | **[learning-retention-analytics](https://github.com/aleattene/learning-retention-analytics)** | Why do online students drop out, and who is at risk? (OULAD) | **32,593 enrollments** · ghost students complete at **7.7% vs 47%** baseline · 3 prioritized interventions | Python · DuckDB · SQL · SciPy · Matplotlib · Seaborn |
+| **[runner-injury-risk-prediction](https://github.com/aleattene/runner-injury-risk-prediction)** | Can training-load data predict injuries in elite runners? | **74 elite athletes** · 42k+ athlete-days · XGBoost + SHAP · AUC-ROC 0.624 = **92% of the published benchmark** | Python · Numpy · Pandas · Scikit-learn · Matplotlib · Seaborn |
 <!-- ## 👨‍💻 Featured Projects 
 
 | Name | Description | Status | Repository | Deployment | Teck Stack |
