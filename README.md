@@ -14,8 +14,9 @@
 | :---: | :---: | :---:| :---: |
 | **[learning-retention-analytics](https://github.com/aleattene/learning-retention-analytics)** | Why do online students drop out, and who is at risk? (OULAD) | **32,593 enrollments** · ghost students complete at **7.7% vs 47%** baseline · 3 prioritized interventions | Python · DuckDB · SQL · SciPy · Matplotlib · Seaborn |
 | **[runner-injury-risk-prediction](https://github.com/aleattene/runner-injury-risk-prediction)** | Can training-load data predict injuries in elite runners? | **74 elite athletes** · 42k+ athlete-days · XGBoost + SHAP · AUC-ROC 0.624 = **92% of the published benchmark** | Python · Numpy · Pandas · Scikit-learn · Matplotlib · Seaborn |
-<!-- ## 👨‍💻 Featured Projects 
+| **[sardinia-hospitality-intelligence](https://github.com/aleattene/sardinia-hospitality-intelligence)** | Where should Sardinian hospitality invest next? | **7 years of ISTAT data** (2018-2024) · 4.44M arrivals in 2024 (**+25% vs 2019**) · priority ranking of all 5 provinces | Python · Pandas · DuckDB · Matplotlib · Seaborn · GeoPandas |
 
+<!-- ## 👨‍💻 Featured Projects 
 | Name | Description | Status | Repository | Deployment | Teck Stack |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | learning-retention-analytics | Analysing student retention and drop-out in online education (OULAD dataset). | [<img src="https://us.123rf.com/450wm/kebox/kebox2204/kebox220400339/185718606-pulsante-rosso-rotondo-con-icona-segno-di-spunta-bianco-accettato.jpg" width="30">](#) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/learning-retention-analytics) | [<img src="https://github.com/user-attachments/assets/26c6477a-e863-403c-b70d-69127db97557" width="35">](#) | Python - DuckDB - SQL - SciPy - Matplotlib - Seaborn
