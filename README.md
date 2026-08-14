@@ -29,7 +29,7 @@
 | Project | Description | Deploy | Tech Stack |
 | :---: | :---: | :---:| :---: |
 | **[asd-management-backend](https://github.com/aleattene/asd-management-backend)** | REST API for sports-association management: JWT auth, OpenAPI/Swagger docs, 12 domain apps | — | Django · DRF · PostgreSQL |
-| **[asd-management-frontend](https://github.com/aleattene/asd-management-frontend)** | React client for the ASD management platform, companion to the backend | [<img src="https://skillicons.dev/icons?i=netlify" width="35">](https://asd-management.netlify.app/) | React |
+| **[asd-management-frontend](https://github.com/aleattene/asd-management-frontend)** | React client for the ASD management platform, companion to the backend | [<img src="https://skillicons.dev/icons?i=netlify" width="35">](https://asd-management.netlify.app/) | React · TypeScript |
 
 
 <!-- ## 👨‍💻 Featured Projects 
@@ -67,7 +67,7 @@
 -->
 <!--
 | python-challenges | Python Solutions to Challenges from Codewars and Edabit.| [<img src="https://e7.pngegg.com/pngimages/270/706/png-clipart-check-mark-computer-icons-green-tick-mark-angle-text-thumbnail.png" width="30">](#)| [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/python_challenges)| [<img src="https://docs.codewars.com/logo.svg" width="30">](https://www.codewars.com/)| Python
-| python-workbook | Solutions to the exercises in the Python Workbook by Ben Stephenson. | [<img src="https://banner2.cleanpng.com/20180330/jbw/avieomyiz.webp" width="40">](#)| [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/python-workbook)| [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8dBAH7hFbJ0psyquZdYQcKWEcD69d1ANl1LaR0KEWTfds2d6Q" width="30">](https://link.springer.com/book/10.1007/978-3-319-14240-1)| Python
+| python-workbook | Solutions to the exercises in the Python Workbook by Ben Stephenson. | [<img src="https://banner2.cleanpng.com/20180330/jbw/avieomyiz.webp" width="40">](#)| [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/python-workbook)| [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8dBAH7hFbJ0psyquZdYQcKWEcD69d1ANl1LaR0KEWTfds2d6Q" width="30">](https://link.springer.com/book/10.1007/978-3-319-14240-1)| Python |
 
 <br />
 
@@ -125,7 +125,7 @@ Django · DRF · FastAPI · PostgreSQL · MySQL · Node.js · MongoDB
 **🖥️ Frontend**  
 HTML · CSS · React
 
-**🛠️ Tools & Method**  
+**🛠️ Tools & Methods**  
 Git · GitHub Actions · Docker · Jest · Pytest
 
 <br/>
