@@ -4,7 +4,7 @@
 - ⚙️ Engineering background: **Django** · **FastAPI** · **Node.js** · **React**.
 - 🏅 Former professional athlete, **400m semi-finalist at the Sydney 2000 Olympics**. 
 - 🎯 Direction: **Data Analysis & Business Intelligence today, applied Data Science next**.
-- 🤝 Open to collaborations on **data** and **open-source projects**. Fastest way to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleattene/)
+- 🤝 Open to collaborations on **data** and **open-source projects**.
 
 <br/>
 
@@ -15,9 +15,9 @@
 | Project | The question it answers | Key numbers | Dashboard | Tech Stack |
 | :---: | :---: | :---:| :---: | :---: |
 | **[learning-retention-analytics](https://github.com/aleattene/learning-retention-analytics)** | Why do online students drop out, and who is at risk? (OULAD) | **32,593 enrollments** · ghost students complete at **7.7% vs 47%** baseline · 3 prioritized interventions | - | Python · DuckDB · SQL · SciPy · Matplotlib · Seaborn |
-| **[runner-injury-risk-prediction](https://github.com/aleattene/runner-injury-risk-prediction)** | Can training-load data predict injuries in elite runners? | **74 elite athletes** · 42k+ athlete-days · XGBoost + SHAP · AUC-ROC 0.624 = **92% of the published benchmark** | - | Python · Numpy · Pandas · Scikit-learn · Matplotlib · Seaborn |
+| **[runner-injury-risk-prediction](https://github.com/aleattene/runner-injury-risk-prediction)** | Can training-load data predict injuries in elite runners? | **74 elite athletes** · 42k+ athlete-days · XGBoost + SHAP · AUC-ROC 0.624 = **92% of the published benchmark** | - | Python · NumPy · Pandas · Scikit-learn · Matplotlib · Seaborn |
 | **[sardinia-hospitality-intelligence](https://github.com/aleattene/sardinia-hospitality-intelligence)** | Where should Sardinian hospitality invest next? | **7 years of ISTAT data** (2018-2024) · 4.44M arrivals in 2024 (**+25% vs 2019**) · priority ranking of all 5 provinces | - | Python · Pandas · DuckDB · Matplotlib · Seaborn · GeoPandas |
-| **[sports-platform-coverage-gap-analysis](https://github.com/aleattene/sports-platform-coverage-gap-analysis)** | Where are the growth gaps for a sports-club platform? | **107 provinces × 174 sports** mapped · composite Priority Score · 3-phase expansion roadmap | [<img src="https://github.com/user-attachments/assets/26c6477a-e863-403c-b70d-69127db97557" width="50" alt="Live dashboard on Looker Studio">](https://lookerstudio.google.com/s/tDAIpFPxjls)  | Python · Pandas · MatPlotLib · Seaborn ·  Playwright · GeoPandas · Looker Studio |
+| **[sports-platform-coverage-gap-analysis](https://github.com/aleattene/sports-platform-coverage-gap-analysis)** | Where are the growth gaps for a sports-club platform? | **107 provinces × 174 sports** mapped · composite Priority Score · 3-phase expansion roadmap | [<img src="https://github.com/user-attachments/assets/26c6477a-e863-403c-b70d-69127db97557" width="50" alt="Live dashboard on Looker Studio">](https://lookerstudio.google.com/s/tDAIpFPxjls)  | Python · Pandas · Matplotlib · Seaborn ·  Playwright · GeoPandas · Looker Studio |
 > 🚧 **Currently building** [atlante-cure](https://github.com/aleattene/atlante-cure): a public data product that makes Italy's official hospital-care outcomes (PNE Agenas) readable for every citizen. (Python · SQL · DuckDB · Streamlit)
 
 <br />
@@ -79,9 +79,7 @@
 | algorithms | ... WIP ... | [<img src="https://us.123rf.com/450wm/kebox/kebox2204/kebox220400339/185718606-pulsante-rosso-rotondo-con-icona-segno-di-spunta-bianco-accettato.jpg" width="30">](#) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/algorithms) | [<img src="https://us.123rf.com/450wm/outchill/outchill2112/outchill211203108/179702149-confidential-text-on-red-vintage-grungy-round-rubber-stamp.jpg?ver=6" width="30">](#)| TypeScript |
 | checkers-game | [WIP] Checkers Game where the user challenges the computer, starting with a statistics-based opponent and progressing to an Artificial Intelligence. | [<img src="https://us.123rf.com/450wm/kebox/kebox2204/kebox220400339/185718606-pulsante-rosso-rotondo-con-icona-segno-di-spunta-bianco-accettato.jpg" width="30">](#) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/checkers-game-be) [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30">](https://github.com/aleattene/checkers-game-fe)| [<img src="https://skillicons.dev/icons?i=netlify" width="30">](https://checkersgamefe.netlify.app/)| Python |
 
---> 
 <br/>
-
 
 ## 🤝 Open Source Contributions
 
@@ -93,7 +91,6 @@
 
 <br/>
 
-<!--
 ## 📆 Open Source Projects - Future Contributions
 | Name | Description | Status | Repository | Deployment |
 | :---: | :---: | :---: | :---: | :---: |
@@ -107,10 +104,20 @@
 
 <br />
 
+ ## 🤝 Open Source - Merged Contributions
+
+| Project | Description | Contribution |
+| :---: | :---: | :---: |
+| **[orama](https://github.com/oramasearch/orama)** | Fast, in-memory, typo-tolerant full-text search engine written in TypeScript | [![Merged PRs](https://img.shields.io/badge/PRs-merged-8250df)](https://github.com/askorama/orama/pull/553) |
+| **[amqplib](https://github.com/amqp-node/amqplib)** | AMQP 0-9-1 library and client for Node.js | [![Merged PRs](https://img.shields.io/badge/PRs-merged-8250df)](https://github.com/amqp-node/amqplib/pull/668) |
+| **[std](https://github.com/micheleriva/std)** | Michele Riva's TypeScript/JavaScript standard library | [![MergedPRs](https://img.shields.io/badge/PRs-merged-8250df)](https://github.com/micheleriva/std/pulls?q=is%3Apr+is%3Aclosed+author%3Aaleattene) |
+
+<br />
+
 ## 🧰 Core Stack
 
 **📊 Data & Analytics**  
-Python · SQL · NumPy · Pandas · Matplotlib · Seaborn · DuckDB · SciKit-learn · Looker Studio
+Python · SQL · NumPy · Pandas · Matplotlib · Seaborn · DuckDB · Scikit-learn · Looker Studio
 
 **⚙️ Backend**  
 Django · DRF · FastAPI · PostgreSQL · MySQL · Node.js · MongoDB
@@ -119,7 +126,7 @@ Django · DRF · FastAPI · PostgreSQL · MySQL · Node.js · MongoDB
 HTML · CSS · React
 
 **🛠️ Tools & Method**  
-Git · GitHub Actions · Docker · Jest · PyTest
+Git · GitHub Actions · Docker · Jest · Pytest
 
 <br/>
 
