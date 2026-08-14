@@ -10,12 +10,25 @@
 
 ## 📊 Data Analysis & Data Science - Featured Projects
 
-| Project | The question it answers | Key numbers | Tech Stack |
+<!-- End-to-end analyses on real data: business question → pipeline → statistics → visualization → recommendations. Each README documents method, findings **and declared limits**. -->
+
+| Project | The question it answers | Key numbers | Dashboard | Tech Stack |
+| :---: | :---: | :---:| :---: | :---: |
+| **[learning-retention-analytics](https://github.com/aleattene/learning-retention-analytics)** | Why do online students drop out, and who is at risk? (OULAD) | **32,593 enrollments** · ghost students complete at **7.7% vs 47%** baseline · 3 prioritized interventions | - | Python · DuckDB · SQL · SciPy · Matplotlib · Seaborn |
+| **[runner-injury-risk-prediction](https://github.com/aleattene/runner-injury-risk-prediction)** | Can training-load data predict injuries in elite runners? | **74 elite athletes** · 42k+ athlete-days · XGBoost + SHAP · AUC-ROC 0.624 = **92% of the published benchmark** | - | Python · Numpy · Pandas · Scikit-learn · Matplotlib · Seaborn |
+| **[sardinia-hospitality-intelligence](https://github.com/aleattene/sardinia-hospitality-intelligence)** | Where should Sardinian hospitality invest next? | **7 years of ISTAT data** (2018-2024) · 4.44M arrivals in 2024 (**+25% vs 2019**) · priority ranking of all 5 provinces | - | Python · Pandas · DuckDB · Matplotlib · Seaborn · GeoPandas |
+| **[sports-platform-coverage-gap-analysis](https://github.com/aleattene/sports-platform-coverage-gap-analysis)** | Where are the growth gaps for a sports-club platform? | **107 provinces × 174 sports** mapped · composite Priority Score · 3-phase expansion roadmap | [<img src="https://github.com/user-attachments/assets/26c6477a-e863-403c-b70d-69127db97557" width="35" alt="Live dashboard on Looker Studio">](https://lookerstudio.google.com/s/tDAIpFPxjls)  | Python · Pandas · MatPlotLib · Seaborn ·  Playwright · GeoPandas · Looker Studio |
+
+<br />
+
+## ⚙️ Software Engineering
+
+<!-- The foundations under the analytics — API design, testing, CI/CD: -->
+
+| Project | Description | Deploy | Tech Stack |
 | :---: | :---: | :---:| :---: |
-| **[learning-retention-analytics](https://github.com/aleattene/learning-retention-analytics)** | Why do online students drop out, and who is at risk? (OULAD) | **32,593 enrollments** · ghost students complete at **7.7% vs 47%** baseline · 3 prioritized interventions | Python · DuckDB · SQL · SciPy · Matplotlib · Seaborn |
-| **[runner-injury-risk-prediction](https://github.com/aleattene/runner-injury-risk-prediction)** | Can training-load data predict injuries in elite runners? | **74 elite athletes** · 42k+ athlete-days · XGBoost + SHAP · AUC-ROC 0.624 = **92% of the published benchmark** | Python · Numpy · Pandas · Scikit-learn · Matplotlib · Seaborn |
-| **[sardinia-hospitality-intelligence](https://github.com/aleattene/sardinia-hospitality-intelligence)** | Where should Sardinian hospitality invest next? | **7 years of ISTAT data** (2018-2024) · 4.44M arrivals in 2024 (**+25% vs 2019**) · priority ranking of all 5 provinces | Python · Pandas · DuckDB · Matplotlib · Seaborn · GeoPandas |
-| **[sports-platform-coverage-gap-analysis](https://github.com/aleattene/sports-platform-coverage-gap-analysis)** | Where are the growth gaps for a sports-club platform? | **107 provinces × 174 sports** mapped · composite Priority Score · 3-phase expansion roadmap | Python · Pandas · MatPlotLib · Seaborn ·  Playwright · GeoPandas · Looker Studio |
+
+
 
 <!-- ## 👨‍💻 Featured Projects 
 | Name | Description | Status | Repository | Deployment | Teck Stack |
