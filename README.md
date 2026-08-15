@@ -108,9 +108,9 @@
 
 | Project | Description | Contribution |
 | :---: | :---: | :---: |
-| **[orama](https://github.com/oramasearch/orama)** | Fast, in-memory, typo-tolerant full-text search engine written in TypeScript | [![Merged PRs](https://img.shields.io/badge/PRs-merged-8250df)](https://github.com/askorama/orama/pull/553) |
-| **[amqplib](https://github.com/amqp-node/amqplib)** | AMQP 0-9-1 library and client for Node.js | [![Merged PRs](https://img.shields.io/badge/PRs-merged-8250df)](https://github.com/amqp-node/amqplib/pull/668) |
-| **[std](https://github.com/micheleriva/std)** | Michele Riva's TypeScript/JavaScript standard library | [![MergedPRs](https://img.shields.io/badge/PRs-merged-8250df)](https://github.com/micheleriva/std/pulls?q=is%3Apr+is%3Aclosed+author%3Aaleattene) |
+| **[orama](https://github.com/oramasearch/orama)** | Fast, in-memory, typo-tolerant full-text search engine written in TypeScript | [<img src="https://github.com/user-attachments/assets/98327e51-e6dd-4c34-ab82-bbe2708289b3" width="35" alt="Merged pull requests" />](https://github.com/askorama/orama/pull/553) |
+| **[amqplib](https://github.com/amqp-node/amqplib)** | AMQP 0-9-1 library and client for Node.js | [<img src="https://github.com/user-attachments/assets/98327e51-e6dd-4c34-ab82-bbe2708289b3" width="35" alt="Merged pull requests" />](https://github.com/amqp-node/amqplib/pull/668) |
+| **[std](https://github.com/micheleriva/std)** | Michele Riva's TypeScript/JavaScript standard library | [<img src="https://github.com/user-attachments/assets/98327e51-e6dd-4c34-ab82-bbe2708289b3" width="35" alt="Merged pull requests" />](https://github.com/micheleriva/std/pulls?q=is%3Apr+is%3Aclosed+author%3Aaleattene) |
 
 <br />
 
